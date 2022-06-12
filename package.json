@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "name": "nfactorial-homework-0610-npm-storages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pushToGit": "git add . && git commit -m",
+    "postpushToGit": "git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlzhasArinov/nfactorial-homework-0610-npm-storages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlzhasArinov/nfactorial-homework-0610-npm-storages/issues"
+  },
+  "homepage": "https://github.com/OlzhasArinov/nfactorial-homework-0610-npm-storages#readme",
+  "keywords": [],
+  "description": ""
+}
